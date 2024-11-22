@@ -1,0 +1,19 @@
+.table {
+    border: 1px black solid;
+    border-collapse: collapse; /* Убирает двойные границы */
+}
+.table__header {
+    background-color: rgba(38, 25, 151, 0.24);
+}
+.header__item {
+    text-align: center;
+    border: 1px rgba(0, 0, 0, 0.5) solid;
+    padding: 5px;
+}
+.table__row {
+}
+.row__item {
+    padding: 5px;
+    text-align: center;
+    border: 1px rgba(0, 0, 0, 0.5) solid;
+}

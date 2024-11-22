@@ -1,0 +1,25 @@
+.form {
+    width: 100%;
+    padding: 20px 0;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    border: 1px rgba(38, 25, 151, 0.24) solid;
+    background-color: rgba(46, 37, 133, 0.103);
+}
+
+.form__select {
+}
+
+.form__input {
+    padding: 0 20px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.form__button {
+    padding: 5px;
+    background-color: rgba(38, 25, 151, 0.24);
+    border: 1px rgb(38, 25, 151) solid;
+    border-radius: 10px;
+}
